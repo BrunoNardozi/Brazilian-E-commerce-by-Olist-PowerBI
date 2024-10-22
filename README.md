@@ -2,4 +2,4 @@ This project is an example of PowerBI dashboard focused on logistic information 
 
 To open in PowerBI download the .csv and .pbix files.
 
-I've included prints of the dashboards.
+To view dashboard prints open .pdf
